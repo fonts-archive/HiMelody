@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Hi Melody';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/HiMelody/HiMelody.ttf') format('truetype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/HiMelody/HiMelody.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/HiMelody/HiMelody.woff2') format('woff2');
+}
