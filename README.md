@@ -4,7 +4,7 @@
 
 &nbsp;
 
-CSS
+### CSS
 
 ```
 font-family: 'Hi Melody';
@@ -12,7 +12,7 @@ font-family: 'Hi Melody';
 
 &nbsp;
 
-link
+### link
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/HiMelody/HiMelody.css" type="text/css"/>
@@ -20,7 +20,7 @@ link
 
 &nbsp;
 
-import
+### import
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/HiMelody/HiMelody.css');
@@ -28,7 +28,7 @@ import
 
 &nbsp;
 
-font-face
+### font-face
 
 ```
 @font-face {
@@ -40,4 +40,16 @@ font-face
          url('https://cdn.jsdelivr.net/gh/fonts-archive/HiMelody/HiMelody.woff') format('woff'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/HiMelody/HiMelody.ttf') format('truetype');
 }
+```
+
+&nbsp;
+
+### 라이센스 본문
+
+```
+These fonts are licensed under the Open Font License. 
+ 
+You can use them in your products & projects – print or digital, commercial or otherwise. 
+ 
+This isn't legal advice, please consider consulting a lawyer and see the full license for all details.
 ```
